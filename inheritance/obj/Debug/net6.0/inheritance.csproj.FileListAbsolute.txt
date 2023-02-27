@@ -1,0 +1,15 @@
+D:\visual project\inheritance\inheritance\bin\Debug\net6.0\inheritance.exe
+D:\visual project\inheritance\inheritance\bin\Debug\net6.0\inheritance.deps.json
+D:\visual project\inheritance\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+D:\visual project\inheritance\inheritance\bin\Debug\net6.0\inheritance.dll
+D:\visual project\inheritance\inheritance\bin\Debug\net6.0\inheritance.pdb
+D:\visual project\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+D:\visual project\inheritance\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual project\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+D:\visual project\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+D:\visual project\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+D:\visual project\inheritance\inheritance\obj\Debug\net6.0\inheritance.dll
+D:\visual project\inheritance\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+D:\visual project\inheritance\inheritance\obj\Debug\net6.0\inheritance.pdb
+D:\visual project\inheritance\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+D:\visual project\inheritance\inheritance\obj\Debug\net6.0\ref\inheritance.dll
