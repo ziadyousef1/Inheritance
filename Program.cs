@@ -13,7 +13,7 @@
             Empyoyee[] empyoyees =  { m1, m2, m3, m4 };
             foreach (var employee in empyoyees)
             {
-                Console.WriteLine("\n----------------");
+                Console.WriteLine("\n-----------------");
                 Console.WriteLine(employee);
             }
             Console.ReadKey();
